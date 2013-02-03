@@ -17,6 +17,7 @@
 # limitations under the License.
 #
 
+include_recipe 'git'
 
 chef_gem "octokit"
 require 'octokit'
