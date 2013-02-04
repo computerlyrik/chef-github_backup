@@ -1,4 +1,4 @@
-name            "github-backup"
+name            "github_backup"
 maintainer       "computerlyrik"
 maintainer_email "chef-cookbooks@computerlyrik.de"
 license          "Apache 2.0"
